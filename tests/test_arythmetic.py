@@ -1,4 +1,4 @@
-from Balon.sequences import ArithmeticSequence
+from balloon.sequences import ArithmeticSequence
 
 def test_next():
     sequence = ArithmeticSequence(5, 3)
