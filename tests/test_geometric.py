@@ -1,4 +1,4 @@
-from Balon.sequences import GeometricSequence
+from balloon.sequences import GeometricSequence
 import pytest
 
 def test_next():

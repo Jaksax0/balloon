@@ -1,4 +1,4 @@
-from Balon.sequences import FibonacciSequence
+from balloon.sequences import FibonacciSequence
 
 def test_next():
     sequence = FibonacciSequence()
